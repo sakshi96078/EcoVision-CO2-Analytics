@@ -1,4 +1,4 @@
-# EcoVision-CO2-Analytics
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/51bf29d5-5e44-4452-baff-3a43a838fa5b" /># EcoVision-CO2-Analytics
 # 📊 CO₂ Emissions Data Analysis
 
 
@@ -15,13 +15,12 @@ The objective is to transform raw environmental data into **meaningful insights*
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.png" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.png" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+
 
 ---
 
@@ -40,51 +39,29 @@ The objective is to transform raw environmental data into **meaningful insights*
 
 ## 🔄 Analysis Workflow
 
-![Workflow](images/workflow.png)
+🔹 Data Loading
+Imported dataset using Pandas
+Inspected initial structure
+🔹 Data Understanding
+Checked data types and summary statistics
+Identified missing values
+🔹 Data Cleaning
+Selected relevant columns
+Removed missing values
+Filtered dataset from year 2000 onwards
+🔹 Exploratory Data Analysis (EDA)
+Identified top CO₂ emitting countries
+Analyzed global emission trends
+Compared country-wise emissions
+Studied impact of GDP and population
+🔹 Visualization
+Created meaningful plots using Matplotlib & Seaborn
+Represented insights through graphs and charts
 
 ---
 
-## 📊 Analysis Performed
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/403343ba-9ccd-4a6a-be69-6df82c965af8" />
 
-### 🔍 Top CO₂ Emitting Countries
-
-![Top CO2](images/top_co2_countries.png)
-
-### 🔍 Global CO₂ Emission Trend
-
-![Trend](images/global_co2_trend.png)
-
-### 🔍 Country-wise Comparison
-
-![Comparison](images/top5_country_trends.png)
-
-### 🔍 GDP vs CO₂
-
-![GDP](images/gdp_vs_co2.png)
-
-### 🔍 Population vs CO₂
-
-![Population](images/population_vs_co2.png)
-
-### 🔍 Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
-
-### 🔍 CO₂ Distribution
-
-![Distribution](images/co2_distribution.png)
-
-### 🔍 Outlier Detection
-
-![Outliers](images/co2_outliers.png)
-
-### 🔍 Average CO₂ Trend
-
-![Average](images/avg_co2_trend.png)
-
-### 🔍 Contribution Share
-
-![Contribution](images/top5_contribution.png)
 
 ---
 
@@ -121,6 +98,3 @@ This project demonstrates **end-to-end data analysis**, including data cleaning,
 
 ---
 
-## 👩‍💻 Author
-
-**Sakshi Kale**
