@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/51bf29d5-5e44-4452-baff-3a43a838fa5b" /># EcoVision-CO2-Analytics
+# EcoVision-CO2-Analytics
 # 📊 CO₂ Emissions Data Analysis
 
 
@@ -15,12 +15,13 @@ The objective is to transform raw environmental data into **meaningful insights*
 
 ## 🛠 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.png" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.png" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.png" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.png" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.png" width="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.png" width="50" title="NumPy"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="50" title="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="50" title="Seaborn"/>
+</p>
 
 ---
 
